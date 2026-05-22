@@ -4,7 +4,6 @@ export const NAV_LINKS = [
   { label: 'History', href: '#history' },
   { label: 'Director', href: '#director' },
   { label: 'Services', href: '#services' },
-  { label: 'News', href: '#news' },
   { label: 'Contact', href: '#contact' }
 ];
 
@@ -81,7 +80,7 @@ export const SERVICES = [
     icon: 'fa-headset',
     title: 'Technical Support',
     body: 'ICT helpdesk and on-site technical assistance for hardware, software, network issues, and system access problems throughout all PUP campuses.',
-    tag: 'Mon-Fri 8AM-5PM'
+    tag: 'Mon-Fri 8AM-8PM'
   },
   {
     icon: 'fa-tools',
@@ -161,7 +160,6 @@ export const FOOTER_LINKS = {
     { label: 'History', href: '#history' },
     { label: 'Our Director', href: '#director' },
     { label: 'Services', href: '#services' },
-    { label: 'News', href: '#news' },
     { label: 'Contact Us', href: '#contact' }
   ],
   services: [
