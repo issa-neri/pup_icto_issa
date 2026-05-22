@@ -3,6 +3,9 @@
 ## Run
 - Open index.html in any modern browser, or use a simple live server.
 
+## Deploy (Vercel)
+- Set Root Directory to `pup-icto-website`.
+
 ## Structure
 - index.html: page skeleton and semantic sections.
 - css/: modular styles split by base, layout, components, pages, utilities.
