@@ -20,3 +20,4 @@
 - Scroll handling uses requestAnimationFrame throttling.
 - All content is centralized in js/utils/constants.js for easy updates.
 - No build tools or backend required.
+ 
