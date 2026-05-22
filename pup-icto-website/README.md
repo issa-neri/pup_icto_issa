@@ -4,7 +4,7 @@
 - Open index.html in any modern browser, or use a simple live server.
 
 ## Deploy (Vercel)
-- Set Root Directory to `pup-icto-website`.
+- Set Root Directory to `pup-icto-website` in the Vercel Project Settings.
 
 ## Structure
 - index.html: page skeleton and semantic sections.
